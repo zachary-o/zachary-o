@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front-end Developer in Hanoi, Vietnam<br>🌱 I’m currently learning NextJS<br>
+🔭 I’m currently working as a Front-end Developer in Hanoi, Vietnam<br>🌱 I’m currently learning algorithms 🥲<br>
 
 
 ## 🌐 Socials:
